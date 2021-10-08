@@ -3,6 +3,7 @@
 This repository contains the supporting code for the paper
 
 > [Dummy Shuffling against Algebraic Attacks in White-box Implementations](https://ia.cr/2021/290)
+
 by Alex Biryukov and Aleksei Udovenko ([EUROCRYPT 2021](https://link.springer.com/chapter/10.1007%2F978-3-030-77886-6_8)).
 
 Currently, it includes:
@@ -28,4 +29,5 @@ Citation:
 ```
 
 **Author:** Aleksei Udovenko
-**License:** GLPv3
+
+**License:** GNU GPL v3
