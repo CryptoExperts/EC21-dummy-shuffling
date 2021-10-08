@@ -8,7 +8,7 @@ by Alex Biryukov and Aleksei Udovenko ([EUROCRYPT 2021](https://link.springer.co
 
 Currently, it includes:
 
-1. [Proof-of-concept](./poc_differential_attack_on_shuffling.py) of the differential algebraic attack on dummyless shuffling.
+1. [Proof-of-concept](./poc_differential_attack_on_shuffling.py) of the differential algebraic attack on dummyless shuffling. (requires [SageMath](https://sagemath.org/))
 
 ## Information
 
