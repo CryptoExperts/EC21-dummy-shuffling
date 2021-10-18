@@ -6,7 +6,9 @@ This repository contains the supporting code for the paper
 
 by Alex Biryukov and Aleksei Udovenko ([EUROCRYPT 2021](https://link.springer.com/chapter/10.1007%2F978-3-030-77886-6_8)).
 
-Currently, it includes:
+See also [recorded presentation on YouTube](https://www.youtube.com/watch?v=OMm8NNpPCdA).
+
+Here you can find:
 
 1. [Slides](./slides.pdf) of the presentation.
 1. [Proof-of-concept](./poc_differential_attack_on_shuffling.py) of the differential algebraic attack on dummyless shuffling. (requires [SageMath](https://sagemath.org/))
@@ -29,6 +31,6 @@ Citation:
 }
 ```
 
-**Author:** Aleksei Udovenko
+**Author:** [Aleksei Udovenko](https://affine.group)
 
 **License:** GNU GPL v3
